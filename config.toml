@@ -1,0 +1,7 @@
+theme = "fleet_dark"
+
+[editor]
+true-color = true
+
+[editor.cursor-shape]
+insert = "bar"
